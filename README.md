@@ -55,4 +55,4 @@ print("---------------------------------------------------------------")
 ![Screenshot 2023-11-07 103336](https://github.com/Vaishnavi-saravanan/Single-server-infinite-capacity---Markov-Model/assets/118541897/2469310b-58d1-4b8a-9fd5-c88a47fe39f9)
 
 ## Result :
-![image](https://github.com/Vaishnavi-saravanan/Single-server-infinite-capacity---Markov-Model/assets/118541897/db911629-d899-4970-bc85-4a58f6f455a1)
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
